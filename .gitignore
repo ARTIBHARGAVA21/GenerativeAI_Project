@@ -1,0 +1,21 @@
+# Environment Variables
+.env
+
+# Virtual Environment
+.venv/
+venv/
+env/
+GenerativeAI/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Streamlit Cache
+.streamlit/
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
