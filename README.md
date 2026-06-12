@@ -223,22 +223,7 @@ Through these projects, I gained practical experience in:
 
 ---
 
-# 👩‍💻 Author
 
-**Arti Bhargava**
-
-Backend Developer | Python Developer | Generative AI Enthusiast
-
-Skills:
-
-* Python
-* Django
-* LangChain
-* Streamlit
-* AWS
-* MySQL
-* Generative AI
-* Machine Learning
 
 ---
 
